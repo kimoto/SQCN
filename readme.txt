@@ -1,5 +1,8 @@
 SQCN
 
+= Notice =
+* This program is not working for currently version steam.
+
 = Description =
 SQCN is Steam Quick Change personaName.
 this program using OpenSteamWorks API.
